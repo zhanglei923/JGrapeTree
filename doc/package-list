@@ -1,3 +1,3 @@
-org.longbow.jgrapetree.build
-org.longbow.jgrapetree.io
-org.longbow.jgrapetree.model
+org.jgrapetree.build
+org.jgrapetree.io
+org.jgrapetree.model
